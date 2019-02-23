@@ -1,0 +1,24 @@
+{
+  "name": "concurrent-state",
+  "version": "1.0.0",
+  "description": "state for concurrent react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnoff/concurrent-state.git"
+  },
+  "author": "Josh Story",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnoff/concurrent-state/issues"
+  },
+  "homepage": "https://github.com/gnoff/concurrent-state#readme",
+  "devDependencies": {
+    "parcel": "^1.11.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
